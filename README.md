@@ -40,4 +40,3 @@
    ```bash
    python main.py
    ```
-Для запуска программы нужно запустить файл "Caesar-Cryptographer.exe"<br />
